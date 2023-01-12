@@ -55,3 +55,7 @@ In this case, the selected motor was the following:
 <p align="justify"> There are three folders that make up the repository. The Matlab folder includes the step files for the Simulink simulation as well as the Simulink file where the digital twin is stored. Finally, the SolidWorks motor assembly folder contains the CAD files for the model of the DC-Motor used in the simulations. </p>
 
 <p align="justify">To learn more about the Multibody library and its capabilities visit the MathWorks Simscape Multibody documentation (https://la.mathworks.com/help/sm/index.html)</p>
+
+## Usage example with piston model
+
+https://www.youtube.com/watch?v=egThLwGQqlk 
